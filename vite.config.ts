@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Noel3Dpro/' // 👈 TÊN REPO
+  base: '/demo_noel/' // 👈 TÊN REPO
 })
